@@ -1,7 +1,5 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%#c6a6f2&lines=Karina+Gimalova)
 
-<!--
-**kabrishka/kabrishka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div style="width:480px">
   <iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/6N3MIPOsVHSuboy9Qw/video" width="480"></iframe>
