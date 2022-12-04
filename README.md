@@ -1,6 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C6A6F2&center=false&width=435&lines=Karina+Gimalova)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m studying at Mendeleev University in the program Information systems and technologies
 - 💖 I’m currently learning Java and Kotlin
@@ -39,4 +38,4 @@ Here are some ideas to get you started:
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/kabrishka/github-readme-stats)
-<!--   ![Karina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabrishka&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
+<a href="https://github.com/kabrishka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&langs_count=10&title_color=a979ec&text_color=16062d&icon_color=ec79ec&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
