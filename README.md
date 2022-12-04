@@ -38,7 +38,5 @@ Here are some ideas to get you started:
 </p>
 
 ### Stats
-<p align="left">
-  ![Karina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabrishka&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-</p>
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/kabrishka/github-readme-stats)
+<!--   ![Karina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabrishka&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
