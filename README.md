@@ -37,5 +37,4 @@
 </p>
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/kabrishka/github-readme-stats)
-<a href="https://github.com/kabrishka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&langs_count=10&title_color=a979ec&text_color=16062d&icon_color=ec79ec&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kabrishka/github-readme-stats)
