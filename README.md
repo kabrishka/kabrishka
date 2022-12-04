@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%#c6a6f2&lines=Karina+Gimalova)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C6A6F2&center=true&width=435&lines=Karina+Gimalova)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
