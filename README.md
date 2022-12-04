@@ -4,7 +4,7 @@
 - 🔭 I’m studying at Mendeleev University in the program Information systems and technologies
 - 💖 I’m currently learning Java and Kotlin
 
-<h2 color=#ec79bc> Skills </h2>
+<h2 style="color=ec79bc"> Skills </h2>
 <p align="left">
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
@@ -28,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-<h2 color=#ec79bc> Socials </h2>
+<h2 style="color=ec79bc"> Socials </h2>
 <p align="left"> 
   <a href="https://discord.com/users/7983" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
@@ -37,5 +37,6 @@
     <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="32" height="32" /></a>
 </p>
 
-<h2 color=#ec79bc> Stats </h2>
+<h2 style="color=ec79bc"> Stats </h2>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&layout=compact&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kabrishka/github-readme-stats)
