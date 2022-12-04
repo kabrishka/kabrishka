@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=861356&width=435&lines=Karina+Gimalova)](https://git.io/typing-svg)
 
-## <img src="https://giphy.com/embed/WuZFeCtAKwjkY" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen> More about me:
+- 👾 Android developer
 - 🔭 I’m studying at Mendeleev University in the program Information systems and technologies
 - 💖 I’m currently learning Java and Kotlin
 
