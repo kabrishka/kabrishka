@@ -36,5 +36,5 @@
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabrishka&hide=stars,prs,issues,contribs&show_icons=true&theme=merko)](https://github.com/kabrishka/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&layout=compact&show_icons=true&theme=merko)](https://github.com/kabrishka/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabrishka&hide=stars,prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/kabrishka/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&layout=compact&show_icons=true&theme=dracula)](https://github.com/kabrishka/github-readme-stats)
