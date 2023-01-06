@@ -37,6 +37,6 @@
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabrishka&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&layout=synthwave)](https://github.com/kabrishka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&theme=synthwave)](https://github.com/kabrishka/github-readme-stats)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabrishka&hide=stars,prs,issues,contribs&show_icons=true&theme=synthwave)](https://github.com/kabrishka/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&layout=compact&show_icons=true&theme=synthwave)](https://github.com/kabrishka/github-readme-stats) -->
