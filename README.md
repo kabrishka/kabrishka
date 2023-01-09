@@ -1,7 +1,9 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=e5289e&width=435&lines=Karina+Gimalova)](https://git.io/typing-svg)
 
 👾 Android developer
+
 🔭 I’m studying at Mendeleev University in the program Information systems and technologies
+
 💖 I’m currently learning Java and Kotlin
 
 ## Skills
