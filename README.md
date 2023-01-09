@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=e5289e&width=435&lines=Karina+Gimalova)](https://git.io/typing-svg)
 
-### <img src = "https://gist.github.com/developer-kaczmarek/fde1ee52b5704ca3529d1a18439c2763#file-codeandroid-gif"> More about me: 
+### <img src = "![android](https://user-images.githubusercontent.com/99499702/211431308-8241bcd8-62d7-4267-882f-773580c7586b.gif)"> More about me: 
 
 * 👾 Android developer
 * 🔭 I’m studying at Mendeleev University in the program Information systems and technologies
