@@ -1,6 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&pause=1000&color=e5289e&width=435&lines=Karina+Gimalova)](https://git.io/typing-svg)
 
-### <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="70"> More about me: 
+<img align='right'
+     src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" 
+     width="200">
 
 * 👾 Android developer
 * 🔭 I’m studying at Mendeleev University in the program Information systems and technologies
