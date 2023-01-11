@@ -16,6 +16,9 @@
   <a href="https://discord.com/users/7983" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
+     <a href="https://t.me/kabrishka" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=telegram" />
+  </a>
 </p>
 <p align="left"> 
   <a href="https://discord.com/users/7983" target="_blank" rel="noreferrer">
