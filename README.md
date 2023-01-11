@@ -9,7 +9,7 @@
 * 💖 I’m currently learning Java and Kotlin
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,cs,html,css,postgres,figma,firebase)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,cs,postgres,figma,html,css,php,firebase)
 
 ## Socials
 <p align="left">
