@@ -12,6 +12,11 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,cs,html,css,postgres,figma,firebase)](https://skillicons.dev)
 
 ## Socials
+<p align="left">
+  <a href="https://discord.com/users/7983" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 <p align="left"> 
   <a href="https://discord.com/users/7983" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
