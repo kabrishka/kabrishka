@@ -2,7 +2,7 @@
 
 <img align='right'
      src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" 
-     width="200">
+     width="170">
 
 * 👾 Android developer
 * 🔭 I’m studying at Mendeleev University in the program Information systems and technologies
@@ -27,4 +27,4 @@
 
 ![Karina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabrishka&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&layout=compact&theme=synthwave)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrishka&layout=compact&theme=synthwave)
