@@ -25,11 +25,11 @@
 
 ## Stats
 
-![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabrishka&theme=monokai)
-![Статистика языков в коммитах](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kabrishka&theme=monokai)
-![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabrishka&theme=monokai)
-![Статистика профиля](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kabrishka&theme=monokai)
-![Данные по коммитам за сутки](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kabrishka&theme=monokai)
+![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabrishka&theme=radical)
+![Статистика языков в коммитах](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kabrishka&theme=radical)
+![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabrishka&theme=radical)
+![Статистика профиля](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kabrishka&theme=radical)
+![Данные по коммитам за сутки](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kabrishka&theme=radical)
 
 
 
