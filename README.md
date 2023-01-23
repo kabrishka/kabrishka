@@ -24,17 +24,13 @@
 </p>
 
 ## Stats
-<p align="center">
-     ![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabrishka&theme=tokyonight)
 
-     ![Статистика языков в коммитах](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kabrishka&theme=tokyonight)
+![Карточка профиля](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabrishka&theme=tokyonight)
+![Статистика языков в коммитах](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kabrishka&theme=tokyonight)
+![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabrishka&theme=tokyonight)
+![Статистика профиля](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kabrishka&theme=tokyonight)
+![Данные по коммитам за сутки](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kabrishka&theme=tokyonight)
 
-     ![Статистика языков в репозиториях](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabrishka&theme=tokyonight)
-
-     ![Статистика профиля](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kabrishka&theme=tokyonight)
-
-     ![Данные по коммитам за сутки](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kabrishka&theme=tokyonight)
-</p>
 
 
 <!-- ![Karina's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabrishka&show_icons=true&theme=synthwave)
