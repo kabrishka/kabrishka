@@ -22,7 +22,7 @@
 </p>
 </p>
 
-## 🧠Check out my profile on JetBrains Academy: https://hyperskill.org/profile/376332598
+🧠Check out my profile(https://hyperskill.org/profile/376332598) on JetBrains Academy
 
 ## Stats
 
