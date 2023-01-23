@@ -20,8 +20,9 @@
      <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="50" height="50"/>
   </a>
 </p>
-
 </p>
+
+Check out my profile on JetBrains Academy: https://hyperskill.org/profile/376332598
 
 ## Stats
 
