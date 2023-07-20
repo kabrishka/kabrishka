@@ -6,8 +6,11 @@
      width="170">
 
 👾 __Android__ developer
+
 🔭 I’m studying at Mendeleev University in the program Information systems and technologies
+
 💖 I’m currently learning __Java__ and __Kotlin__
+
 🧠 Check out my [profile](https://hyperskill.org/profile/376332598) on __JetBrains Academy__
 
 ## Skills
