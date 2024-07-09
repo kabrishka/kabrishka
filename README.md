@@ -7,7 +7,7 @@
 
 👾 __Android__ developer
 
-🔭 I’m studying at Mendeleev University in the program Information systems and technologies
+🔭 I graduated from Mendeleev University in the Information Systems and Technologies program.
 
 💖 I’m currently learning __Java__ and __Kotlin__
 
