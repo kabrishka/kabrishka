@@ -10,10 +10,10 @@ fun main() {
 }
 ```
 
-## Skills
+### Skills
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,postgres,cs,figma)
 
-## Socials
+### Socials
 <p align="left">
   <a href="https://discord.com/users/7983" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=discord"/>
@@ -23,9 +23,7 @@ fun main() {
   </a>
 </p>
 
-<p></p>
-
-## Stats
+### Stats
 
 ![Карточка профиля](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabrishka&theme=transparent)
 ![Статистика языков в репозиториях](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabrishka&theme=transparent)
