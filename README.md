@@ -3,7 +3,6 @@ fun main() {
     Developer(
         name = "Karina",
         specialty = "Android",
-        company = "TrueConf",
         university = "MUCTR"
     )
 }
