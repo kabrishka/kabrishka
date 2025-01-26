@@ -1,7 +1,6 @@
-<p>
-  <img  align="left" src="https://github.com/user-attachments/assets/b03e8ea9-f30b-4e9c-91bc-77b2de77915b" width="130" height="250"/>
+<img  align="left" src="https://github.com/user-attachments/assets/b03e8ea9-f30b-4e9c-91bc-77b2de77915b" width="130" height="250"/>
 
-#### 👾 Skills
+#### 🧠 Skills
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,postgres,cs,figma)
 
 #### 🌐 Socials
@@ -13,10 +12,10 @@
      <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" width="50" height="50"/>
   </a>
 </p>
-</p>
 
+<br>
 
-#### 👔 Work experience
+#### 🔮 Work experience
 * TrueConf, [TrueConf](https://trueconf.ru) / Middle android developer (Sept 2024 - Present)
   - Participation in the development, improvement and debugging of video communication and collaboration software for mobile devices
   - Support TrueConfSDK
