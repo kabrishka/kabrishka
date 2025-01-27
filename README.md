@@ -16,18 +16,18 @@
 <br>
 
 #### 🔮 Work experience
-* [TrueConf](https://trueconf.ru) / Middle android developer (Sept 2024 - Present)
+* [TrueConf](https://trueconf.ru) | Middle android developer (Sept 2024 - Present)
   - Participation in the development, improvement and debugging of video communication and collaboration software for mobile devices
   - Support TrueConfSDK
   - Code Review
   - Interaction with the designer, analysts, testers and other team members
-* [SBOL | Loyalty tribe](https://www.sberbank.ru) / Leading engineer (Jul 2024 - Sept 2024):
+* [SBOL | Loyalty tribe](https://www.sberbank.ru) | Leading engineer (Jul 2024 - Sept 2024):
   - Development of new functionality in the Sberbank Online mobile application (creation of user interfaces and writing logic)
   - Support and development of existing functionality
   - Evaluation of development complexity, planning and work in sprints (agile scrum)
   - Code Review
   - Interaction with the designer, analysts, testers and other team members
-* [TrueConf](https://trueconf.ru) / Junior -> Middle android developer (Apr 2023 - Jul 2024)
+* [TrueConf](https://trueconf.ru) | Junior -> Middle android developer (Apr 2023 - Jul 2024)
   - Participation in the development, improvement and debugging of video communication and collaboration software for mobile devices
   - Support TrueConfSDK, TrueConfDiscovery
   - Interaction with the designer, analysts, testers and other team members
