@@ -6,9 +6,7 @@
 ### 👔 Work experience
 | Job Position                  | Company                         | Responsibilities                                                                  | Work Period       |
 | ----------------------------- | ------------------------------- | --------------------------------------------------------------------------------- | ----------------- |
-| Middle android developer      | [TrueConf](https://trueconf.ru) | Development and support of video communication software, SDK support, code review | 2024-09 — Present |
-| Leading engineer              | [SBOL](https://www.sberbank.ru) | Development of functionality in Sberbank Online, code support                     | 2024-07 — 2024-09 |
-| Junior android developer      | [TrueConf](https://trueconf.ru) | Video communication software development, SDK and Discovery support               | 2023-04 — 2024-07 |
+| Middle android developer      | [TrueConf](https://trueconf.ru) | Development and support of video communication software, SDK support, code review | 2023-04 — Present |
 
 ### 🎓 Education
 * **[D. Mendeleyev University of Chemical Technology of Russia "MUCTR"](https://www.muctr.ru) (2020 - 2024)**
