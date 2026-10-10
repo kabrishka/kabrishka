@@ -1,12 +1,13 @@
 <h1 align="left">Hello, I'm Karina Gimalova!</h1>
 
 ### 📊 Stack
-![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,postgres,cs,figma)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,go,swift,postgres)
 
 ### 👔 Work experience
 | Job Position                  | Company                         | Responsibilities                                                                  | Work Period       |
 | ----------------------------- | ------------------------------- | --------------------------------------------------------------------------------- | ----------------- |
-| Middle android developer      | [TrueConf](https://trueconf.ru) | Development and support of video communication software, SDK support, code review | 2023-04 — Present |
+| Middle android developer      | [TrueConf](https://trueconf.ru) | Development and support of video communication software, SDK support | 2023-04 — 2025-12 |
+| Software engineer      | [Avito](https://www.avito.ru) | BDUI, BE, Mobile native (iOS, Android) | 2025-12 — Present |
 
 ### 🎓 Education
 * **[D. Mendeleyev University of Chemical Technology of Russia "MUCTR"](https://www.muctr.ru) (2020 - 2024)**
