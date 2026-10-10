@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Karina Gimalova!</h1>
+<h1 align="left">Hello, I'm Karina Tokunova!</h1>
 
 ### 📊 Stack
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,go,swift,postgres)
